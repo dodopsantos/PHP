@@ -14,7 +14,7 @@
                         </div>
                     @endif
 
-                    Bem-Vindo
+                    Bem-Vindo !!
                 </div>
             </div>
         </div>
